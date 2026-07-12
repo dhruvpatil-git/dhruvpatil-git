@@ -16,7 +16,7 @@
 class DhruvPatil {
 public:
 
-    string education = "B.Tech Electronics & Telecommunication";
+    string education = "B.Tech Electronics & Telecommunication Engineering";
 
     vector<string> languages = {
         "C++",
@@ -48,7 +48,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode,linux,cmake,opencv,opencv&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,mysql,git,github,vscode,linux,opencv,cmake,bash&perline=9"/>
 
 </p>
 
@@ -56,10 +56,10 @@ public:
 
 ## 🏆 Competitive Programming
 
-- 💙 200+ LeetCode Problems Solved
-- ⭐ CodeChef 2★
+- 🩼 Solved **1600+ LeetCode** rating
+- ⭐ **CodeChef 2★**
 - 🚀 Regular Contest Participant
-- 📚 Currently mastering Advanced DSA
+- 📚 Currently learning **Graphs, Trees & Dynamic Programming**
 
 ---
 
@@ -67,7 +67,7 @@ public:
 
 ### 🌀 Mandelbrot Fractal Renderer
 
-- CPU Renderer using SFML
+- CPU Renderer using **SFML**
 - Interactive Zoom
 - Julia Set Support
 - OpenGL GPU Renderer
@@ -77,9 +77,9 @@ public:
 
 ### 🍱 Snack Distribution Management System
 
-- Database Management System
+- Database-driven Management System
 - SQL Integration
-- Efficient Inventory Tracking
+- Inventory & Distribution Tracking
 
 ---
 
@@ -87,9 +87,9 @@ public:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvpatil-git&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvpatil-git&show_icons=true&count_private=true&theme=github_dark"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+<img height="170" src="https://streak-stats.demolab.com?user=dhruvpatil-git&theme=github-dark"/>
 
 </div>
 
@@ -101,43 +101,31 @@ public:
 
 ---
 
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatil-git&layout=compact&theme=github_dark"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/dhruvpatil-linked">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="www.linkedin.com/in/dhruvpatil-linked">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+  <a href="https://leetcode.com/u/Dhruvfyre/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/Dhruvfyre/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
+  <a href="https://www.codechef.com/users/acceptedbyluck">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 
-<a href="https://www.codechef.com/users/acceptedbyluck">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/DhruvFyre">
-<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
-</a>
-
+  <a href="https://codeforces.com/profile/DhruvFyre">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=dhruvpatil-git&color=blue)
+![](https://komarev.com/ghpvc/?username=dhruvpatil-git&color=58A6FF&style=for-the-badge)
 
 </div>
 
@@ -145,6 +133,6 @@ public:
 
 <div align="center">
 
-### ⭐ "Code. Learn. Optimize. Repeat."
+### ⭐ *"Code. Learn. Optimize. Repeat."*
 
 </div>
