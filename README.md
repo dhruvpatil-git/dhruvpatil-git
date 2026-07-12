@@ -56,7 +56,7 @@ public:
 
 ## 🏆 Competitive Programming
 
-- 🩼 Solved **1600+ LeetCode** rating
+- 🩼 **1600+ LeetCode** rating
 - ⭐ **CodeChef 2★**
 - 🚀 Regular Contest Participant
 - 📚 Currently learning **Graphs, Trees & Dynamic Programming**
