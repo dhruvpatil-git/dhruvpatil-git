@@ -4,7 +4,7 @@
 
 ### Competitive Programmer • C++ Developer • Electronics & Telecommunication Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;Building+Graphics+Projects;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer;C%2B%2B+Developer;Future+Software+Engineer"/>
 
 </div>
 
